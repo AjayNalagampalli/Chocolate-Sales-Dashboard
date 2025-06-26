@@ -1,6 +1,6 @@
 # 🍫 Chocolate Sales Dashboard – Power BI Project
 
-> 📌 **Project Description:**  
+📌 **Project Description:**  
 This project showcases a Chocolate Sales Dashboard built using Power BI and DAX, offering rich insights into sales performance across regions, products, and top-performing sales representatives. The dashboard enables decision-makers to monitor revenue, profit trends, product profitability, and shipment metrics across a multi-year timeline.
 
 ---
